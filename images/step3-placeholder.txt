@@ -1,0 +1,3 @@
+Placeholder: Ajoute ici une capture d'écran de l'exécution de 'vendor/bin/phpunit' et du résultat.
+
+Remplace ce fichier par 'step3.png' (format PNG) contenant la capture.
