@@ -30,17 +30,18 @@ vendor/bin/phpunit
 3. Ajout de `src/Math.php` et `tests/MathTest.php`.
 4. Exécution des tests : OK.
 
-## Captures d'écran
+## Captures d'écran (à ajouter)
+Prends des captures d'écran de chaque commande/étape listée dans ce README puis place-les dans le dossier `images/`.
 
-Les captures d'écran doivent être placées dans le dossier `images/` et insérées comme ceci :
+Remarque : j'ai oublié de prendre les captures d'écran pour les premières étapes du projet (installation et ajout des fichiers). Je les ajouterai plus tard une fois que tu les auras prises.
 
-![Étape 1 - Installation](images/step1.png)
+Suggestions de noms de fichiers :
 
-![Étape 2 - Ajout de la classe Math](images/step2.png)
+- `images/step1-installation.png` — sortie de `composer install`
+- `images/step2-ajout-class.png` — ajout de `src/Math.php` et `tests/MathTest.php`
+- `images/step3-tests-ok.png` — sortie de `vendor/bin/phpunit` (tests réussis)
 
-![Étape 3 - Exécution des tests](images/step3.png)
-
-> Remplacez les fichiers `images/step*.png` par vos captures réelles.
+Quand tu auras pris les captures, place-les dans `images/` et dis‑moi si tu veux que j'insère les images directement dans le `README.md`.
 
 ## Tests d'erreur (à faire)
 
