@@ -31,6 +31,7 @@ vendor/bin/phpunit
 4. Exécution des tests : OK.
 
 ## Captures d'écran (à ajouter)
+
 Prends des captures d'écran de chaque commande/étape listée dans ce README puis place-les dans le dossier `images/`.
 
 Remarque : j'ai oublié de prendre les captures d'écran pour les premières étapes du projet (installation et ajout des fichiers). Je les ajouterai plus tard une fois que tu les auras prises.

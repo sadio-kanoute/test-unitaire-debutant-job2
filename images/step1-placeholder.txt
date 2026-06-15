@@ -1,3 +1,0 @@
-Placeholder: Ajoute ici une capture d'écran de la commande 'composer install' et de sa sortie.
-
-Remplace ce fichier par 'step1.png' (format PNG) contenant la capture.

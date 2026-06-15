@@ -1,3 +1,0 @@
-Placeholder: Ajoute ici une capture d'écran montrant l'ajout de 'src/Math.php' et 'tests/MathTest.php'.
-
-Remplace ce fichier par 'step2.png' (format PNG) contenant la capture.
