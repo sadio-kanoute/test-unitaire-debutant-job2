@@ -6,6 +6,6 @@ class Math
 {
     public function addition($a, $b)
     {
-        return $a - $b; // bug volontaire
+        return $a + $b;
     }
 }
